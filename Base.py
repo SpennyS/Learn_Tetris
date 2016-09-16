@@ -1,3 +1,4 @@
+#Copied from @coleifer for learning purposes
 #!/usr/bin/python
 
 import pyglet
