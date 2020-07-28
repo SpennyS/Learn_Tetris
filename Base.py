@@ -1,5 +1,6 @@
 #Copied from @coleifer for learning purposes
 #!/usr/bin/python
+#IDK WHAT TO DO AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 
 import pyglet
 from pyglet.window import key
